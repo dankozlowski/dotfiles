@@ -1,0 +1,4 @@
+# Invoca
+alias w1="cd development/invoca/web1"
+alias w2="cd development/invoca/web2"
+alias pnapi="cd development/invoca/PNAPI"
