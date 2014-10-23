@@ -11,4 +11,4 @@ alias pull="git pull"
 alias gfo="git fetch origin"
 alias gpm="git pull origin master"
 
-alias gbc="git branch --merged | grep -v "\*" | xargs -n 1 git branch -d"
+alias gbc="git branch --merged | grep -v '^* master$' | grep -v '^  master$' | xargs git branch -d"
