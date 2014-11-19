@@ -1,3 +1,4 @@
-alias reload="source ~/.zshrc"
 alias ls="ls -la"
+
+alias reload="source ~/.zshrc"
 alias cloud="ssh -p 420 dan@hellothisisdan.com"

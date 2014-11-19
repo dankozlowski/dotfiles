@@ -1,6 +1,4 @@
 alias rs="rails s"
-alias rsd="rails s --debugger"
 alias rc="rails c"
-alias rv="rails -v"
+
 alias be="bundle exec"
-alias rspec="RAILS_ENV=test bundle exec rspec"
