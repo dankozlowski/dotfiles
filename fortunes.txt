@@ -1,1 +1,3 @@
+"The most effective debugging tool is still careful thought, coupled with judiciously placed print statements." - Brian Kernighan
+"Controlling complexity is the essence of computer programming." - Brian Kernighan
 "If people are not laughing at your goals, your goals are too small." - Azim Premji

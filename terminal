@@ -1,13 +1,13 @@
 # Useful stuff
 alias ls="ls -la"
 alias reload="source ~/.zshrc"
-alias shuffle_first="ruby -e 'puts STDIN.readlines.shuffle.first'"
+alias shuffle_first="ruby -e 'puts; puts STDIN.readlines.sample; puts'"
 
 # Servers
 alias cloud="ssh -p 420 dan@hellothisisdan.com"
 
 # Toys
-precmd() { cat fortunes.txt | shuffle_first }
+precmd() { cat ~/development/dankozlowski/dotfiles/fortunes.txt | shuffle_first }
 alias fortunes="vim ~/development/dankozlowski/dotfiles/fortunes.txt"
 alias fuck="say fuck"
 
