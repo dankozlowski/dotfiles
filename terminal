@@ -1,4 +1,12 @@
+# Useful stuff
 alias ls="ls -la"
-
 alias reload="source ~/.zshrc"
+alias shuffle_first="ruby -e 'puts STDIN.readlines.shuffle.first'"
+
+# Servers
 alias cloud="ssh -p 420 dan@hellothisisdan.com"
+
+# Toys
+precmd() { cat fortunes.txt | shuffle_first }
+alias fuck="say fuck"
+
