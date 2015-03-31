@@ -8,5 +8,6 @@ alias cloud="ssh -p 420 dan@hellothisisdan.com"
 
 # Toys
 precmd() { cat fortunes.txt | shuffle_first }
+alias fortunes="vim ~/development/dankozlowski/dotfiles/fortunes.txt"
 alias fuck="say fuck"
 
