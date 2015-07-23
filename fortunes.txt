@@ -1,3 +1,9 @@
 "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements." - Brian Kernighan
 "Controlling complexity is the essence of computer programming." - Brian Kernighan
 "If people are not laughing at your goals, your goals are too small." - Azim Premji
+"Transparent, Reasonable, Usable, Exemplary." - Sandi Metz
+"Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion"
+"Only depend on things that change less often than you do." - POODR
+"Simplicity is the ultimate sophistication." - Leonardo Da Vinci
+"Only talk to your immediate friends." - Law of Demeter
+"We don't make mistakes, we just have happy accidents." - Bob Ross
