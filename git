@@ -14,3 +14,5 @@ alias gpm="git pull origin master"
 
 # Clean that shit up
 alias gbc="git branch --merged | grep -v '^* master$' | grep -v '^  master$' | xargs git branch -d"
+
+alias wow="git log --all --graph --decorate --oneline --simplify-by-decoration"

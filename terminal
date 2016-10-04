@@ -7,7 +7,13 @@ alias shuffle_first="ruby -e 'puts; puts STDIN.readlines.sample'"
 alias cloud="ssh -p 420 dan@hellothisisdan.com"
 
 # Toys
-# precmd() { cat ~/development/dankozlowski/dotfiles/fortunes.txt | shuffle_first }
+precmd() { cat ~/development/dankozlowski/dotfiles/fortunes.txt | shuffle_first }
 alias fortunes="vim ~/development/dankozlowski/dotfiles/fortunes.txt"
 # alias fuck="say fuck"
-alias fuck='eval $(thefuck $(fc -ln -1 | tail -n 1)); fc -R'
+# alias fuck='eval $(thefuck $(fc -ln -1 | tail -n 1)); fc -R'
+
+# Postgtres
+# alias psql_start='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
+# alias psql_stop='pg_ctl -D /usr/local/var/postgres stop -s -m fast'
+
+alias public_ip="curl https://api.ipify.org"
