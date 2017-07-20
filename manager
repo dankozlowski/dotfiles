@@ -2,4 +2,6 @@ source ${0%/*}/locations
 source ${0%/*}/terminal
 source ${0%/*}/git
 source ${0%/*}/rails
+source ${0%/*}/ubuntu
+source ${0%/*}/kitchen
 
