@@ -1,0 +1,213 @@
+    4  sudo apt-get install chrome
+    6  sudo apt-get install gnome-tweak-tool
+   11  sudo apt-get install rbenv
+   26  sudo apt-get install htop
+   28  sudo apt-get install curl
+   35  apt-get install -y libssl-dev libreadline-dev zlib1g-dev
+   36  sudo apt-get install -y libssl-dev libreadline-dev zlib1g-dev
+   40  sudo apt-get install terminator
+   43  sudo apt-get install touchegg
+   49  sudo add-apt-repository ppa:gekkio/xmonad\nsudo apt-get update\nsudo apt-get install gnome-session-xmonad
+   52  sudo apt-get remove xmonad
+   53  sudo apt-get install xmonad
+   55  sudo apt-get install sqlite3
+   56  sudo apt-get install sqlite3-dev
+   57  ^[[200~sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
+   58  sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm3 libgdbm-dev
+   67  apt-get install libpam-fprintd
+   68  sudo apt-get install libpam-fprintd
+   72  sudo apt-get install irssi
+   73  sudo apt-get install libfprint0 fprint-demo libpam-fprintd
+   78  sudo apt-get install tmux
+   85  sudo apt-get remove golang-go
+   89  sudo apt-get install golang-go
+   95  sudo apt-get install awscli
+  103  sudo apt-get uninstall virtualbox
+  104  sudo apt-get remove virtualbox
+  105  sudo apt-get install virtualbox
+  107  apt-get install libmysqlclient-dev
+  108  sudo apt-get install libmysqlclient-dev
+  110  sudo apt-get install i3
+  114  sudo apt-get install xdotool wmctrl
+  115  sudo apt-get install libinput-tools
+  134  sudo apt-get install ranger
+  135  sudo apt-get
+  136  sudo apt-get install synaptic
+  139  sudo apt-get install nitrogen
+  145  sudo apt-get install chromium
+  161  sudo apt-get install firefox
+  167  sudo apt-get install ag
+  192  sudo apt-get install xinit
+  201  sudo apt-get update --fix-missing
+  203  sudo apt-get install wicd
+  204  sudo apt-get install unity-tweak-tools
+  205  sudo apt-get install unity-tweak-tool
+  229  sudo apt-get install compizconfig-settings-manager
+  252  sudo apt-get instal libsqlite3-dev
+  253  sudo apt-get install libsqlite3-dev
+  255  sudo apt-get install vagrant
+  273  sudo apt-get install calibre
+  276  sudo apt-get install spotify-client
+  277  sudo apt-get install slim
+  327  sudo apt-get install nvm
+  332  sudo apt-get install node
+  333  sudo apt-get install nodejs
+  381  sudo apt-get instal xbacklight
+  382  sudo apt-get install xbacklight
+  385  sudo apt-get install light
+  387  sudo apt-get install silversurfer-ah
+  388  sudo apt-get install silversurfer-ag
+  389  sudo apt-get install silversearcher-ag
+  441  grep ir 'sudo apt-get' ~
+  442  grep -r 'sudo apt-get' ~
+  443  grep -r '=sudo apt-get' ~
+  444  grep -r '\'sudo apt-get' ~
+  447  grep -r "ag=apt-get"
+  448  grep -r "ag=apt-get" ~
+  476  sudo apt-get install qownnotes
+  504  sudo apt-get install arandr
+  507  sudo apt-get install pulseaudio-equalizer
+  511  sudo apt-get install pulseaudio
+  514  sudo apt-get install pavucontrol
+  520  sudo apt-get install linux-headers-$(uname -r)
+  522  sudo apt-get install libcupti-dev
+  525  sudo apt-get install docker
+  526  sudo apt-get install docker-engine
+  532  sudo apt-get install -y docker-engine
+  533  sudo apt-get install vuda
+  534  sudo apt-get install cuda
+  535  sudo apt-get install nvidia-docker
+  536  sudo apt-get install python-pip python-dev python-virtualenv 
+  543  sudo apt-get install weechat
+  545  \nsudo add-apt-repository ppa:overcoder/hexchat\nsudo apt-get update
+  546  sudo apt-get install hexchat
+  590  sudo apt-get -f install 
+  591  sudo apt-get install fonts-hack-ttf
+  626  sudo apt-get install spacemaces
+  627  sudo apt-get install gnomefortress
+  628  sudo apt-get install gnome-fortress
+  630  sudo apt-get remove emacs
+  632  sudo apt-get install emacs
+  685  sudo apt-get install
+  686  sudo apt-get install -f
+  696  sudo apt-get install terraform
+  743  sudo apt-get install chefdk
+  744  sudo apt-get upgrade chefdk
+  909  sudo apt-get install libpq-dev
+  916  sudo apt-get install gftp
+  924  sudo add-apt-repository ppa:n-muench/burg -y && sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && sudo apt-get update && sudo apt-get install burg burg-themes grub-customizer
+  942  sudo apt-get remove burg burg-themes grub-customizer 
+  955  sudo apt-get install playonlinux
+  987  sudo apt-get install tails-installer
+  997  sudo apt-get install xclip
+ 1016  sudo apt-get install jq
+ 1095  sudo apt-get install shutter
+ 1162  sudo apt-get install libcurl
+ 1163  sudo apt-get install libcurl-dev
+ 1164  sudo apt-get install libcurl4-openssl-dev 7.47.0-1ubuntu2.2
+ 1165  sudo apt-get install libcurl4-openssl-dev
+ 1257  sudo apt-get install konqueror
+ 1259  sudo apt-get install usbmount
+ 1260  sudo apt-get install exfat-fuse exfat-utils
+ 1276  sudo apt-get install vlc
+ 1544  sudo apt-get install kate
+ 1574  sudo apt-get install digikam
+ 1575  sudo apt-get install gimp
+ 1576  sudo apt-get install clementine
+ 1577  sudo apt-get install peazip
+ 1578  sudo apt-get install wine
+ 1586  sudo apt-get install dia
+ 1604  sudo apt-get install nvidia-375
+ 1616  sudo apt-get install nvidia-prime
+ 1639  sudo apt-get install undistract-me
+ 1655  sudo apt-get install thunderbird
+ 1678  sudo apt-get install build-essential git wget libssl-dev libreadline-dev libncurses5-dev zlib1g-dev m4 curl wx-common libwxgtk3.0-dev autoconf
+ 2357  sudo apt-get update
+ 2358  sudo apt-get upgrade terraform
+ 3930  curl -O https://prerelease.keybase.io/keybase_amd64.deb\n# if you see an error about missing `libappindicator1`\n# from the next command, you can ignore it, as the\n# subsequent command corrects it\nsudo dpkg -i keybase_amd64.deb\nsudo apt-get install -f\nrun_keybase
+ 4223  sudo apt-get update
+ 4224  sudo apt-get install i3blocks
+ 4229  sudo apt-get install rofi
+ 4237  sudo apt-get install spacemacs
+ 4277  sudo apt-get instlal fontmanager
+ 4278  sudo apt-get install fontmanager
+ 4279  sudo apt-get install font-manager
+ 4287  sudo apt-get install teiler
+ 4288  sudo apt-get install tieler
+ 4308  sudo apt-get update
+ 4309  sudo apt-get upgrade
+ 4311  sudo apt-get dist-upgrade
+ 4322  sudo apt-get install fonts-font-awesome
+ 4354  sudo apt-get install st
+ 4355  sudo apt-get install simple-terminal
+ 4356  sudo apt-get install polybar
+ 4402  sudo apt-get install aslalib
+ 4403  sudo apt-get install cmake
+ 4405  sudo apt-get install cairo-fc
+ 4406  sudo apt-get install cairo-dev
+ 4407  sudo apt-get install cairo-devel
+ 4408  zsudo apt-get install libcairo2-dev
+ 4409  sudo apt-get install libcairo2-dev
+ 4411  sudo apt-get install libxcb-xkb-dev
+ 4414  sudo apt-get install xcb-proto
+ 4416  sudo apt-get install xcb
+ 4418  sudo apt-get install build-essential freeglut3-dev libglew-dev libglu1-mesa-dev libxmu-dev libxi-dev libjpeg8-dev libpng-dev libfreetype6-dev liblua5.1-0-dev libcurl4-openssl-dev zlib1g-dev libexpat1-dev build-essential freeglut3 libxmu-dev libxi-dev zlib1g-dev libssl-dev sqlite3 libsqlite3-dev libexpat-dev libcurl4-openssl-dev libasound2-dev libogg-dev libvorbis-dev libpulse-dev libsdl1.2-dev libxcb-util0-dev libxcb-randr0-dev libxml2-dev libxxf86vm-dev
+ 4424  sudo apt-get install xcb-util-image
+ 4926  sudo apt-get install adobe-flashplugin
+ 4927  sudo add-apt-repository "deb http://archive.canonical.com/ubuntu $(lsb_release -sc) partner"\nsudo apt-get update
+ 4928  sudo apt-get install adobe-flashplugin
+ 5234  sudo apt-get update
+ 5235  sudo apt-get upgrade
+ 5236  sudo apt-get -f install
+ 5237  sudo apt-get upgrade
+ 5238  sudo apt-get dist-upgrade
+ 5283  sudo apt-get install electrum
+ 5286  sudo apt-get install python-qt4
+ 5289  sudo apt-get install etcher
+ 5293  sudo apt-get update\nsudo apt-get install etcher-electron
+ 5303  sudo apt-get install polkit
+ 5304  sudo apt-get install lxpolkit
+ 5306  sudo apt-get install polkit-kde-1
+ 5307  sudo apt-get install xfce-polkit
+ 5386  sudo apt-get install keepass
+ 5387  sudo apt-get install keepassx
+ 6106  sudo apt-get update
+ 6107  sudo apt-get upgrade
+ 6109  sudo apt-get dist-upgrade
+ 6147  sudo apt-get update
+ 6148  sudo apt-get uninstall undistract-me
+ 6149  sudo apt-get remove undistract-me
+ 6150  sudo apt-get install ppa-purge
+ 6153  sudo apt-get update
+ 6158  sudo apt-get update
+ 6698  sudo apt-get install dtrx
+ 6801  sudo apt-get install google-chrome-stable=44.0.2403.130-1
+ 6802  sudo apt-get install google-chrome-stable=44
+ 7095  sudo apt-get install winbind
+ 7097  sudo apt-get install winetricks\n    sudo wget -O /usr/bin/winetricks https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks\n    chmod +x sudo chmod +x /usr/bin/winetricks
+ 7098  sudo apt-get install winetricks
+ 7106  sudo apt-get install gparted
+ 7127  zsudo apt-get install libcairo2-dev
+ 7317  sudo apt-get update\nsudo apt-get install sublime-text
+ 7503  sudo apt-get install git-lfs
+ 7505  sudo apt-get update
+ 7508  sudo apt-get install git-lfs
+ 7905  sudo apt-get install emma
+ 7923  sudo apt-get install pgadmin3
+ 7938  sudo apt-get install outreach -e ss-uw1-stg tunnel redshift
+ 7939  sudo apt-get install mysql-workbench
+ 7940  sudo apt-get install sql-workbench
+ 7941  sudo apt-get install sqlworkbench
+ 7945  sudo apt-get instal psql
+ 7946  sudo apt-get install psql
+ 7947  sudo apt-get install postgres
+ 7948  sudo apt-get install postgresql postgresql-contrib
+ 7954  sudo apt-get install mysql
+ 7955  sudo apt-get install mysql-server
+ 8710  sudo apt-get install pinta
+ 8927  sudo apt-get install rufus
+ 8929  sudo apt-get update
+ 8930  sudo apt-get install winusb
+ 9488  sudo apt-get update
+10176* history | ag 'apt-get'
+10178* history | ag 'apt-get' > install_history.txt
