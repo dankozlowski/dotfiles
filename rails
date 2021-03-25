@@ -1,5 +1,1 @@
 alias be="bundle exec"
-alias bi="bundle install"
-
-alias rs="be rails s"
-alias rc="be rails c"
